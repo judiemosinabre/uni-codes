@@ -6,9 +6,6 @@ public class IntegerIdentifier {
 
    
     public static void main(String[] args) {
-        //title
-        System.out.println("Integer Identifier");
-        
         Scanner input = new Scanner (System.in);
         
         System.out.print("Enter the number: ");
