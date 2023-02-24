@@ -22,7 +22,7 @@ public class IntegerIdentifier {
             System.out.println(num + " is a Negative number");
         }
         else if (num == 0) {
-            System.out.println(num + " is a Number is zero");
+            System.out.println(num + " is zero");
         }
         else {
             System.out.println("INVALID");
