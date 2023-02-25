@@ -9,7 +9,7 @@ public class Methods {
         System.out.print("Enter a number: ");
         int num = scan.nextInt();
         
-        Checker(num);
+        Checker(num); 
     }
     
     public static void Checker(int num) {
