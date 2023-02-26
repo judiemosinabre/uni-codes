@@ -7,8 +7,8 @@
     <li><h6>Java Swing Components</h6></li>
     <li><h6>JOptionPane & JProgressBar</h6></li>
     <li><h6>Java CRUD</h6></li>
-    <li><h6></h6></li>
-    <li><h6></h6></li>
+    <!--<li><h6></h6></li>-->
+    <!--<li><h6></h6></li>-->
   </ul>
 	
 
