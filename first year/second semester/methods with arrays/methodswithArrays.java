@@ -22,6 +22,7 @@ public class methodswithArrays {
         output(array, size);
     }
     
+    //don't know how to make this one pop on the output window
     public static void output (int [] array, int size) {
         System.out.print("Array elements: ");
         for (int i = 0; i < size; i++) {
